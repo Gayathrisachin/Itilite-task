@@ -24,6 +24,7 @@
               "src/assets"
             ],
             "styles": [
+              "node_modules/bootstrap/dist/css/bootstrap.min.css",
               "src/styles.css"
             ],
             "scripts": []
@@ -119,6 +120,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "Angular-seat"
+    }
+  },
+  "defaultProject": "Angular-seat",
+  "cli": {
+    "analytics": "9aa688d6-84d2-4dfc-b6cb-7067c4bb36fc"
+  }
 }

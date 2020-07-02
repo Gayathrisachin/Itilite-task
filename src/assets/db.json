@@ -1,0 +1,45 @@
+{
+    "seatConfig":[
+        {
+            
+                "seat_price": 250,
+                "seat_map": [
+                  {
+                    "seat_label": "1",
+                    "layout": "gggg__gggg"
+                  },
+                  {
+                    "seat_label": "2",
+                    "layout": "gggg__gggg"
+                  },
+                  {
+                    "seat_label": "3",
+                    "layout": "gggg__gggg"
+                  
+                  },
+                  {
+                    "seat_label": "4",
+                    "layout": "gggg__gggg"
+                  },
+                  {
+                    "seat_label": "5",
+                    "layout": "gggg__gggg"
+                  },
+                  {
+                    "seat_label": "6",
+                    "layout": "gggg__gggg"
+                  },
+                  {
+                    "seat_label": "7",
+                    "layout": "gggg__gggg"
+                  },
+                  {
+                    "seat_label": "8",
+                    "layout": "gggggggggg"
+                   
+                  }
+                ]
+              }
+        
+    ]
+}
